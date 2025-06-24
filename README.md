@@ -11,7 +11,7 @@ Peer comparison and industry outlook
 
 DCF valuation and investment recommendation
 
-#Included Files:
+# Included Files:
 
 Research report (PDF)
 
