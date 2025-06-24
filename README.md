@@ -13,8 +13,8 @@ DCF valuation and investment recommendation
 
 # Included Files:
 
-Research report (PDF)
+[Research report (PDF)](https://github.com/Sr-jana/Stock-Analysis-for-Nick-Scali-Limited/blob/main/Nick%20Scali%20Stock%20Pitch.pdf)
 
-Financial models and supporting calculations (Excel)
+[Financial models and supporting calculations (Excel)](https://github.com/Sr-jana/Stock-Analysis-for-Nick-Scali-Limited/blob/main/Nick%20Scali%20Financial%20Analysis(Store%20Breakdown).csv)
 
-Presentation deck (PowerPoint)
+[Presentation deck (PowerPoint)](https://github.com/Sr-jana/Stock-Analysis-for-Nick-Scali-Limited/blob/main/Team%20Chair%20Force%20one%20presentation.pdf)
